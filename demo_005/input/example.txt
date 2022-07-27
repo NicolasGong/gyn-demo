@@ -1,0 +1,5 @@
+zhangsan  18 student
+lisi 30 teacher
+wangwu 50 worker
+zhaoliu 55 leader
+qiqi 40 teacher
